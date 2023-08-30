@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la | paste -sd "," */ .* [:digit:] [:alpha:] echo ">>"
+ls -m -p .* [:digit:] [:alpha:] echo ">>"
