@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -m -p .* [:digit:] [:alpha:] echo ">>"
+ls -apvm
