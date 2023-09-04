@@ -1,2 +1,2 @@
-We are handling a file redirection command and some of its options
+#We are handling a file redirection command and some of its options
 
