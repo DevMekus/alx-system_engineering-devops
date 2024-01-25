@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+#Using Until, Display a text for 10 times
+
+counter=0
+
+until [ $counter -eq 10 ]
+do
+	echo "Best School"
+	(( counter++ ))
+done
