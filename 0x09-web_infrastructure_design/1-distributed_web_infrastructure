@@ -1,0 +1,9 @@
+Load Balancer
+Load balancers are used to provide availability and scalability to the application. The application can scale beyond the capacity of a single server. The load balancer works to steer the traffic to a pool of available servers through various load balancing algorithms.
+
+Resource-based Load balancer Algorithm: Distributes load based on what resources each server has available at the time.
+
+Difference between Active-Active or Active-Passive setup
+Active-Active setups provide better load balancing, scalability, and fault tolerance by distributing traffic across multiple active load balancers, while Active-Passive setups offer simplicity and standby redundancy with automatic failover capabilities.
+
+What is the difference between the Primary node and the Replica node
